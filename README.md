@@ -16,4 +16,4 @@ ProDA is the **winner** of [Image Classification in the Wild (ICinW)](https://co
 
 We will release the cleaned code as soon as possible (~few weeks).
 
-A raw (uncleaned) code can be downloaded from [here](home.ustc.edu.cn/~lyn0/elevater_toolkit.zip).
+A raw (uncleaned) code can be downloaded from [here](http://home.ustc.edu.cn/~lyn0/elevater_toolkit.zip).
